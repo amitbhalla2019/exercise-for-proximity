@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Amit.Bhalla
+Build-Jdk: 15.0.1
+Implementation-Title: test-exercise
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.abhalla
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/assignment/
+Created-By: Maven Integration for Eclipse
+
